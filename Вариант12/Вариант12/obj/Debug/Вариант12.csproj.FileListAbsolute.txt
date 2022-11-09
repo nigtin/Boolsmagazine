@@ -1,0 +1,8 @@
+C:\Users\truni\source\repos\Вариант12\Вариант12\bin\Debug\Вариант12.exe.config
+C:\Users\truni\source\repos\Вариант12\Вариант12\bin\Debug\Вариант12.exe
+C:\Users\truni\source\repos\Вариант12\Вариант12\bin\Debug\Вариант12.pdb
+C:\Users\truni\source\repos\Вариант12\Вариант12\obj\Debug\Вариант12.csproj.AssemblyReference.cache
+C:\Users\truni\source\repos\Вариант12\Вариант12\obj\Debug\Вариант12.csproj.SuggestedBindingRedirects.cache
+C:\Users\truni\source\repos\Вариант12\Вариант12\obj\Debug\Вариант12.csproj.CoreCompileInputs.cache
+C:\Users\truni\source\repos\Вариант12\Вариант12\obj\Debug\Вариант12.exe
+C:\Users\truni\source\repos\Вариант12\Вариант12\obj\Debug\Вариант12.pdb
